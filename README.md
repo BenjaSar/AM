@@ -20,7 +20,7 @@ La función de discriminante cuadrático es dada por:
 
 $$
 \delta_{k} (x) =
--\frac{1}{2}log|\Sigma_{k}| - \frac{1}{2}(x-\mu_{k})^T\Sigma_{k}^{-1}(x-\mu_{k})+log\pi_{k}
+-\frac{1}{2}log|\Sigma_{k}| - \frac{1}{2}(x-\mu_{k})^T\Sigma_{k}^{-1}(x-\mu_{k})+log\pi_{k}$$
 
 La función **QDA** es similar a **LDA** excepto por la matriz de covarianza: $\Sigma_{k}$<sup>1</sup>.
 
